@@ -65,7 +65,7 @@ EchoWhisperer is designed as a supportive AI companion, offering a multi-modal a
 
 ## 👥 Our Team
 
-This project was a collaborative effort by me and four other dedicated teammates. We poured immense effort into bringing this vision to reality!
+This project was a collaborative effort by me and five other dedicated teammates. We poured immense effort into bringing this vision to reality!
 
 <p align="center">
   <a href="https://github.com/Harsh-shrivastav"><img src="https://i.ibb.co/FqxfvYFT/IMG-20250624-014915-1080-x-1920-pixel.jpg" width="60px" alt="Harsh"></a>
